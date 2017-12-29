@@ -10,6 +10,7 @@ class Tests {
         allTests.addTestSuite(Task03Test.class)
         allTests.addTestSuite(Task04Test.class)
         allTests.addTestSuite(Task05Test.class)
+        allTests.addTestSuite(Task06Test.class)
         return allTests
     }
 }
